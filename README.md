@@ -57,6 +57,14 @@ If you are operating a multi-LLM adversarial-review pipeline on a quantitative p
 
 ---
 
+## Discuss this code
+
+- **Bug, reproduction failure, or unexpected output?** → [Open an Issue](../../issues)
+- **Q&A — version compatibility, hardware, generalization to other inputs?** → [Start a Discussion](../../discussions)
+- **Discuss the paper itself** → [Comments on the website article](https://windstorminstitute.org/articles/c8-clarification-note.html#comments) or [Issues on the Institute repo](https://github.com/Windstorm-Institute/c8-clarification-note/issues)
+
+---
+
 ## The Windstorm Institute
 
 ### Track 1 — The Throughput Basin · 9 papers (Papers 1–9 globally; 1st through 9th in this track; arc complete)
